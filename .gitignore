@@ -1,0 +1,11 @@
+# Файли бази знань
+faiss_index.index
+test.csv
+data.txt
+
+# Кеш Python
+__pycache__/
+
+# Конфігурація IDE
+.vscode/
+.idea/

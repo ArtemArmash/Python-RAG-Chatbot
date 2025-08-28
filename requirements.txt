@@ -1,0 +1,5 @@
+google-generativeai
+numpy
+faiss-cpu
+pandas
+pyTelegramBotAPI
