@@ -58,4 +58,3 @@ The project consists of two main components:
     ```bash
     python3 rag_bot.py
     ```
-```
